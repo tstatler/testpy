@@ -13,7 +13,7 @@ This sample includes:
 * buildspec.yml - this file is used by AWS CodeBuild to package your
   application for deployment to AWS Lambda
   
-  ![https://github.com/fastly/fastly-docs/raw/DOC-5142-animated-gif-guide/_doc/img/mouse-click-location.gif]
+  ![](https://github.com/fastly/fastly-docs/raw/DOC-5142-animated-gif-guide/_doc/img/mouse-click-location.gif) 
   
 * index.py - this file contains the sample Python code for the web service
 * template.yml - this file contains the AWS Serverless Application Model (AWS SAM) used
